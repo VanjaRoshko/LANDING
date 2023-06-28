@@ -149,11 +149,10 @@ body {
     margin: 0 auto;
     color: #1F2937;
   }
+  .button {
+    color: #1F2937;
+  }
 }
-.button {
-  color: #1F2937;
-}
-
 .container5 {
   background: #F3F4F6;
 }
